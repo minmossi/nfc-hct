@@ -9,4 +9,4 @@ What is this for?
 
 This is useful to determine whether your device "truely" doesn't support Korean/Japanese(Osaifu-Keitai)/whatever payment system based on NFC with (SIM)SE, FeliCa, etc.
 
-For example, currently(2019-01-21) Japanese Osaifu-Keitai payment requires FeliCa with SIM-based SE support(or for some devices(like Google Pixel series), HCE-F or FeliCa with eSE is enough). Also, Korean payment systems like T-Money or Cashbee requires NFC-A/B with SIM SE.
+For example, currently(2019-01-21) Japanese Osaifu-Keitai payment requires FeliCa with SIM-based SE support(or for some devices(like Google Pixel series), HCE-F or FeliCa with eSE is enough). Also, Korean payment systems like T-Money or Cashbee requires NFC-A/B with SIM SE, and Railplus or Justouch requires only HCE-A/B.
