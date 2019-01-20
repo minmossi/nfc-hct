@@ -1,8 +1,8 @@
 # NFC HCT(Host Capability Tester)
 
 This is an Android application(compatible with APIs above Level 28) to test the NFC capability of the host device. It shows whether the Android host system supports following capabilities:
-1. HCE-A/B or HCE-F capabilities(which includes NFC-A/B or NFC-F capability, duh)
-2. eSE/microSD SE/SIM SE capabilities with available readers
+1. HCE-A/B or HCE-F capability(which includes NFC-A/B or NFC-F capability, duh)
+2. eSE/microSD SE/SIM SE capability with available reader(s)
 
 What is this for?
 ------------------
